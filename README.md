@@ -87,12 +87,10 @@ I'm a passionate developer with a love for **web development**, **gaming**, and 
 
 | Project | Type | Status | Links |
 |:---:|:---:|:---:|:---:|
-| **FiveM Server Scripts** | Game Development | 🔄 Active | [View](#) |
+| **FiveM Server Scripts** | Game Development | 🔄 Active | [View](https://github.com/daneyyhh/fivem-resources) |
 | **Web Portfolio** | Web Development | ✅ Complete | [View](#) |
-| **Discord Bot** | Automation | 🔄 Active | [View](#) |
-| **Game Mods** | Game Enhancement | ✅ Complete | [View](#) |
-
-</div>
+| **Astrobot Discord** | Automation | 🔄 Active | [View](https://github.com/daneyyhh/astrobot-discord) |
+| **3D Bouncing Ball** | Game Enhancement | ✅ Complete | [View](https://github.com/daneyyhh/3d-bouncing-ball-game) |</div>
 
 **More exciting projects coming soon!** 🚀
 
