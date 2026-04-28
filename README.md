@@ -168,3 +168,5 @@ I'm a passionate developer with a love for **web development**, **gaming**, and 
 *Last Updated: January 2026*
 
 </div>
+
+<!-- v2 -->
