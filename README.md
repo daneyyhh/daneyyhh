@@ -64,10 +64,10 @@ I'm a passionate developer with a growing interest in **Artificial Intelligence*
 
 | Project | Type | Status | Links |
 |---|---|---|---|
-| **AI Experiments** | Artificial Intelligence | 🔄 Active | [View](https://github.com/daneyyhh) |
+| **ERP System** | Enterprise Web App | 🔄 Active | [View](https://github.com/daneyyhh) |
 | **Web Portfolio** | Web Development | ✅ Complete | [View](https://github.com/daneyyhh/daneyyhh#) |
+| **FiveM Server Scripts** | Game Scripting | 🔄 Active | [View](https://github.com/daneyyhh) |
 | **Astrobot Discord** | Automation | 🔄 Active | [View](https://github.com/daneyyhh/astrobot-discord) |
-| **3D Bouncing Ball** | Creative Development | ✅ Complete | [View](https://github.com/daneyyhh/3d-bouncing-ball-game) |
 
 **More exciting projects coming soon!** 🚀
 
