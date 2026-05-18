@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Daneyyhh!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=2E9EF7&center=true&vCenter=true&width=500&lines=Creative+Coder+%7C+Problem+Solver;FiveM+Scripter+%7C+Web+Developer;Gaming+Enthusiast+%7C+Tech+Explorer;Building+Immersive+Experiences!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=2E9EF7&center=true&vCenter=true&width=500&lines=AI+Enthusiast+%7C+Problem+Solver;Web+Developer+%7C+Tech+Explorer;Building+Smart+Digital+Experiences;Exploring+AI+Tools+and+Automation!" alt="Typing SVG" />
 
 ---
 
@@ -10,14 +10,14 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer with a love for **web development**, **gaming**, and **creative coding**. I enjoy building immersive experiences through **FiveM scripting**, crafting elegant web solutions, and exploring innovative technologies. Whether it's developing server-side scripts, creating engaging web interfaces, or working on academic projects, I'm always eager to learn and push the boundaries of what's possible.
+I'm a passionate developer with a growing interest in **Artificial Intelligence**, **web development**, and **creative problem-solving**. I enjoy building smart digital experiences, exploring modern AI tools, and creating practical solutions through code. Whether it's developing web applications, experimenting with AI-powered projects, or working on meaningful ideas, I'm always eager to learn and improve.
 
 <div align="center">
 
-| 🎮 | 💻 | 🛠️ | 📱 |
-|:---:|:---:|:---:|:---:|
-| **Gaming Enthusiast** | **Web Developer** | **FiveM Scripter** | **Mobile Gaming** |
-| Immersive roleplay experiences | Modern, responsive designs | Custom server resources | Gaming aficionado |
+| 🤖 | 💻 | 🧠 | 🚀 |
+|---|---|---|---|
+| **AI Enthusiast** | **Web Developer** | **Problem Solver** | **Tech Explorer** |
+| Exploring intelligent systems | Building modern web solutions | Turning ideas into real projects | Always learning emerging tech |
 
 </div>
 
@@ -25,17 +25,16 @@ I'm a passionate developer with a love for **web development**, **gaming**, and 
 
 ## 💻 Tech Stack & Skills
 
-<div align="center">
-
 ### 🌐 Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-### 🎮 Game Development & Scripting
-![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![FiveM](https://img.shields.io/badge/FiveM-%23F40552.svg?style=for-the-badge&logo=fivem&logoColor=white)
+### 🤖 AI & Development
+![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![C Sharp](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### 🛠️ Tools & Platforms
@@ -44,53 +43,31 @@ I'm a passionate developer with a love for **web development**, **gaming**, and 
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
-</div>
-
 ---
 
 ## 🎯 Key Skills
 
-<table>
-  <tr>
-    <td>
-      <h3>💡 Development</h3>
-      <ul>
-        <li>✅ Web Development (HTML, CSS, JS)</li>
-        <li>✅ Server Scripting (Lua, FiveM)</li>
-        <li>✅ Responsive Design</li>
-        <li>✅ Version Control (Git/GitHub)</li>
-        <li>✅ RESTful APIs</li>
-        <li>✅ Database Management</li>
-      </ul>
-    </td>
-    <td>
-      <h3>🎨 Creative & Design</h3>
-      <ul>
-        <li>✅ Creative Coding</li>
-        <li>✅ UI/UX Design Basics</li>
-        <li>✅ Message Crafting</li>
-        <li>✅ Gaming & Roleplay Design</li>
-        <li>✅ Academic Research</li>
-        <li>✅ Problem Solving</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+| 💡 Development | 🧠 Creative & Innovation |
+|---|---|
+| ✅ Web Development (HTML, CSS, JS) | ✅ Problem Solving |
+| ✅ AI Experimentation & Prompting | ✅ UI/UX Design Basics |
+| ✅ Responsive Design | ✅ Smart Automation Ideas |
+| ✅ Version Control (Git/GitHub) | ✅ Creative Coding |
+| ✅ RESTful APIs | ✅ Academic Research |
+| ✅ Database Management | ✅ Continuous Learning |
 
 ---
 
-## 🎮 Featured Projects
-
-<div align="center">
+## 🤖 Featured Projects
 
 ### 🌟 Project Showcase
 
 | Project | Type | Status | Links |
-|:---:|:---:|:---:|:---:|
-| **FiveM Server Scripts** | Game Development | 🔄 Active | [View](https://github.com/daneyyhh/fivem-resources) |
-| **Web Portfolio** | Web Development | ✅ Complete | [View](#) |
+|---|---|---|---|
+| **AI Experiments** | Artificial Intelligence | 🔄 Active | [View](https://github.com/daneyyhh) |
+| **Web Portfolio** | Web Development | ✅ Complete | [View](https://github.com/daneyyhh/daneyyhh#) |
 | **Astrobot Discord** | Automation | 🔄 Active | [View](https://github.com/daneyyhh/astrobot-discord) |
-| **3D Bouncing Ball** | Game Enhancement | ✅ Complete | [View](https://github.com/daneyyhh/3d-bouncing-ball-game) |</div>
+| **3D Bouncing Ball** | Creative Development | ✅ Complete | [View](https://github.com/daneyyhh/3d-bouncing-ball-game) |
 
 **More exciting projects coming soon!** 🚀
 
@@ -100,11 +77,11 @@ I'm a passionate developer with a love for **web development**, **gaming**, and 
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daneyyhh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/daneyyhh)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daneyyhh&show_icons=true&theme=tokyonight)](https://github.com/daneyyhh)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daneyyhh&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/daneyyhh)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daneyyhh&layout=compact&theme=tokyonight)](https://github.com/daneyyhh)
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=daneyyhh&theme=tokyo-night&hide_border=true)](https://github.com/daneyyhh)
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=daneyyhh&theme=tokyo-night)](https://github.com/daneyyhh)
 
 </div>
 
@@ -112,21 +89,17 @@ I'm a passionate developer with a love for **web development**, **gaming**, and 
 
 ## 🎯 Current Focus
 
-<div align="center">
-
 🔥 **What I'm Currently Working On:**
 
 ```
 ┌─────────────────────────────────────────┐
-│  🎮 Advanced FiveM Server Development    │
-│  🌐 Full-Stack Web Applications          │
-│  📚 Learning Game Development (Unity)    │
-│  🤖 Discord Bot Enhancement              │
-│  💼 Building Portfolio Projects           │
+│ 🤖 Exploring AI & Machine Learning      │
+│ 🌐 Building Full-Stack Web Applications │
+│ 📚 Learning Modern AI Tools & Workflows │
+│ 💡 Creating Smart Automation Projects   │
+│ 💼 Growing My Developer Portfolio       │
 └─────────────────────────────────────────┘
 ```
-
-</div>
 
 ---
 
@@ -137,7 +110,7 @@ I'm a passionate developer with a love for **web development**, **gaming**, and 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/daneyyhh)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@daneyyhh)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/daneyyhh)
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daneyyhh@example.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daneyyhh64@gmail.com)
 
 **Feel free to reach out for collaborations, questions, or just a friendly chat!** 💬
 
@@ -151,13 +124,11 @@ I'm a passionate developer with a love for **web development**, **gaming**, and 
 
 > "The best way to predict the future is to create it."
 >
-> — *Abraham Lincoln*
-
-**⚡ Fun Fact:** I can spend hours perfecting a single line of code or crafting the perfect roleplay scenario! 🎭
+> — Abraham Lincoln
 
 </div>
 
----
+**⚡ Fun Fact:** I enjoy exploring AI tools, refining digital ideas, and turning concepts into smart and useful projects!
 
 <div align="center">
 
@@ -165,8 +136,6 @@ I'm a passionate developer with a love for **web development**, **gaming**, and 
 
 **Made with ❤️ by [Daneyyhh](https://github.com/daneyyhh)**
 
-*Last Updated: January 2026*
+Last Updated: May 2026
 
 </div>
-
-<!-- v2 -->
