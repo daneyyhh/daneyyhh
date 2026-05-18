@@ -64,9 +64,9 @@ I'm a passionate developer with a growing interest in **Artificial Intelligence*
 
 | Project | Type | Status | Links |
 |---|---|---|---|
-| **ERP System** | Enterprise Web App | 🔄 Active | [View](https://github.com/daneyyhh) |
-| **Web Portfolio** | Web Development | ✅ Complete | [View](https://github.com/daneyyhh/daneyyhh#) |
-| **FiveM Server Scripts** | Game Scripting | 🔄 Active | [View](https://github.com/daneyyhh) |
+| **ERP System** | Enterprise Web App | 🔄 Active | [View](https://github.com/daneyyhh/erp_system) |
+| **Web Portfolio** | Web Development | ✅ Complete | [View](https://github.com/daneyyhh/portfolio) |
+| **FiveM Server Scripts** | Game Scripting | 🔄 Active | [View](https://github.com/daneyyhh/fivem-resources) |
 | **Astrobot Discord** | Automation | 🔄 Active | [View](https://github.com/daneyyhh/astrobot-discord) |
 
 **More exciting projects coming soon!** 🚀
