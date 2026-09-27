@@ -100,31 +100,3 @@ Bengaluru, India • Available for Full-Time Roles & High-Impact Contracts
 
 </div>
 
----
-
-## ✅ Add: Profile Readme Generator (maurodesouza/profile-readme-generator)
-
-Want a quick, visual editor to build and update your profile README? I added a direct integration link and instructions to use the Profile Readme Generator tool so you (or visitors) can generate a polished README quickly and paste it into this profile.
-
-<div align="center">
-  <a href="https://profile-readme-generator.com" target="_blank">
-    <img src="https://profile-readme-generator.com/assets/app.png" alt="Profile Readme Generator" width="700" style="max-width:100%;height:auto;" />
-  </a>
-  <p>
-    <a href="https://profile-readme-generator.com" target="_blank">Open the Profile Readme Generator (web demo)</a>
-  </p>
-</div>
-
-### How to use (quick)
-1. Open the Profile Readme Generator: https://profile-readme-generator.com
-2. Customize the layout, widgets, and sections visually.
-3. Click "Generate" and copy the Markdown output.
-4. Paste the generated Markdown into this README (or a draft branch) and commit.
-
-Notes
-- The site provides exported markdown that is ready to paste; if you want me to paste a generated template directly into your README, tell me which layout/preset you want and I’ll do the commit.
-- This integration is purely a convenience link & preview; the generator runs in the browser and does not require additional repository secrets.
-
----
-
-<sub>Animated artwork and icons sourced from community assets. This README includes tools and integrations to help maintain a live, curated profile.</sub>
