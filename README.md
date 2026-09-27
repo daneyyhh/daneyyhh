@@ -1,141 +1,87 @@
-<div align="center">
-
-# 👋 Hi there, I'm Daneyyhh!
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&color=2E9EF7&center=true&vCenter=true&width=500&lines=AI+Enthusiast+%7C+Problem+Solver;Web+Developer+%7C+Tech+Explorer;Building+Smart+Digital+Experiences;Exploring+AI+Tools+and+Automation!" alt="Typing SVG" />
-
----
-
-</div>
-
-## 🚀 About Me
-
-I'm a passionate developer with a growing interest in **Artificial Intelligence**, **web development**, and **creative problem-solving**. I enjoy building smart digital experiences, exploring modern AI tools, and creating practical solutions through code. Whether it's developing web applications, experimenting with AI-powered projects, or working on meaningful ideas, I'm always eager to learn and improve.
+# REUBG DEV
 
 <div align="center">
 
-| 🤖 | 💻 | 🧠 | 🚀 |
-|---|---|---|---|
-| **AI Enthusiast** | **Web Developer** | **Problem Solver** | **Tech Explorer** |
-| Exploring intelligent systems | Building modern web solutions | Turning ideas into real projects | Always learning emerging tech |
+### Reuben Binu George — REUBG DEV
+
+Full Stack Developer • Game Developer • UI Designer
+
+Build. Design. Experiment.
 
 </div>
 
 ---
 
-## 💻 Tech Stack & Skills
+## About
 
-### 🌐 Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+Concise profile — Full-stack (MERN) developer focused on modern web apps and realtime experiences. Experienced with React, Node.js and MongoDB; interested in UI/UX and game development in Unity. I build production-ready web systems, intuitive interfaces and small games.
 
-### 🤖 AI & Development
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![C Sharp](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-
-### 🛠️ Tools & Platforms
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 ---
 
-## 🎯 Key Skills
+## Tech Stack
 
-| 💡 Development | 🧠 Creative & Innovation |
-|---|---|
-| ✅ Web Development (HTML, CSS, JS) | ✅ Problem Solving |
-| ✅ AI Experimentation & Prompting | ✅ UI/UX Design Basics |
-| ✅ Responsive Design | ✅ Smart Automation Ideas |
-| ✅ Version Control (Git/GitHub) | ✅ Creative Coding |
-| ✅ RESTful APIs | ✅ Academic Research |
-| ✅ Database Management | ✅ Continuous Learning |
+- Frontend: HTML · CSS · JavaScript · React · Three.js
+- Backend: Node.js · Express.js
+- Database: MongoDB · MySQL
+- Languages: JavaScript · C++ · C#
+- Game Development: Unity
+- Design: Figma
+- Tools: Git · GitHub · VS Code
 
----
-
-## 🤖 Featured Projects
-
-### 🌟 Project Showcase
-
-| Project | Type | Status | Links |
-|---|---|---|---|
-| **ERP System** | Enterprise Web App | 🔄 Active | [View](https://github.com/daneyyhh/erp_system) |
-| **Web Portfolio** | Web Development | ✅ Complete | [View](https://github.com/daneyyhh/portfolio) |
-| **FiveM Server Scripts** | Game Scripting | 🔄 Active | [View](https://github.com/daneyyhh/fivem-resources) |
-| **Astrobot Discord** | Automation | 🔄 Active | [View](https://github.com/daneyyhh/astrobot-discord) |
-
-**More exciting projects coming soon!** 🚀
 
 ---
 
-## 📊 GitHub Statistics
+## Featured Projects
 
-<div align="center">
+I prioritised projects that demonstrate full-stack and game work.
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=daneyyhh&show_icons=true&theme=tokyonight)](https://github.com/daneyyhh)
+- NEXORA — Advanced Full-Stack MERN E-Commerce Platform  
+  Tech: MERN, Payments, Admin Dashboard  
+  Repo: https://github.com/daneyyhh/nexora-mern-ecommerce
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=daneyyhh&layout=compact&theme=tokyonight)](https://github.com/daneyyhh)
+- Portfolio — Pixel-based portfolio  
+  Tech: JavaScript, Frontend  
+  Repo: https://github.com/daneyyhh/portfolio
 
-[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=daneyyhh&theme=tokyo-night)](https://github.com/daneyyhh)
+- 3D Bouncing Ball Game — Unity 3D game with physics and obstacles  
+  Tech: Unity, C#  
+  Repo: https://github.com/daneyyhh/3d-bouncing-ball-game
 
-</div>
+- AI Chess Game — Interactive AI chess with animated UI  
+  Tech: JavaScript  
+  Repo: https://github.com/daneyyhh/ai-chess-game
 
----
-
-## 🎯 Current Focus
-
-🔥 **What I'm Currently Working On:**
-
-```
-┌─────────────────────────────────────────┐
-│ 🤖 Exploring AI & Machine Learning      │
-│ 🌐 Building Full-Stack Web Applications │
-│ 📚 Learning Modern AI Tools & Workflows │
-│ 💡 Creating Smart Automation Projects   │
-│ 💼 Growing My Developer Portfolio       │
-└─────────────────────────────────────────┘
-```
 
 ---
 
-## 🌐 Let's Connect!
+## GitHub Analytics (Live)
 
-<div align="center">
+<p align="center">
+  <img src="/github-metrics.svg" alt="GitHub metrics" width="720" style="max-width:100%; height:auto;">
+</p>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/daneyyhh)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@daneyyhh)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/daneyyhh)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:daneyyhh64@gmail.com)
+This image is generated automatically by Lowlighter Metrics via GitHub Actions and always reflects live data from my account (languages, activity, featured repos, contribution calendar and recent activity).
 
-**Feel free to reach out for collaborations, questions, or just a friendly chat!** 💬
-
-</div>
 
 ---
 
-## 💭 Inspirational Quote
+## Contribution Calendar
 
-<div align="center">
+<p align="center">
+  <img src="/github-contrib-calendar.svg" alt="Contribution calendar" width="720" style="max-width:100%; height:auto;">
+</p>
 
-> "The best way to predict the future is to create it."
->
-> — Abraham Lincoln
 
-</div>
+---
 
-**⚡ Fun Fact:** I enjoy exploring AI tools, refining digital ideas, and turning concepts into smart and useful projects!
+## Connect
 
-<div align="center">
+- GitHub: https://github.com/daneyyhh
+- Portfolio: https://reubg.in
 
-![Profile Views](https://komarev.com/ghpvc/?username=daneyyhh&label=Profile%20Views&color=0e75b6&style=flat)
 
-**Made with ❤️ by [Daneyyhh](https://github.com/daneyyhh)**
+---
 
-Last Updated: May 2026
-
-</div>
+Notes
+- This README is driven by Lowlighter Metrics outputs. To enable automatic updates, add a repository secret named `METRICS_TOKEN` (read the repository Settings → Secrets and variables → Actions) containing a personal access token. No scopes are strictly required for public data, but to include private repos/contributions you may need appropriate scopes (see the workflow and Lowlighter documentation).
