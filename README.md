@@ -57,15 +57,7 @@ I am **Reuben Binu George** (**REUBG DEV**), a Full Stack and Game Developer ded
 
 ---
 
-### 📊 Live GitHub Analytics
 
-Driven by **[Lowlighter Metrics](https://github.com/lowlighter/metrics)** and updated automatically via **GitHub Actions** (`.github/workflows/metrics.yml`).
-
-<div align="center">
-  <img src="github-metrics.svg" alt="GitHub Metrics — Core Overview &amp; Languages" width="800" style="max-width: 100%; height: auto;" />
-</div>
-
-<br />
 
 #### 📅 Isometric Contribution Calendar
 <div align="center">
