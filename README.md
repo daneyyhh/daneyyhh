@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner.svg" alt="REUBG DEV — Reuben Binu George" width="100%" />
+ 
 </div>
 
 <div align="center">
