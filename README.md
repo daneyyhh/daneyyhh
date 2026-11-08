@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Reuben Binu George
 
-### Full-stack developer · Game development enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=58AAB0&center=true&vCenter=true&width=600&lines=Full-stack+developer+%C2%B7+AI+enthusiast" alt="Full-stack developer · AI enthusiast" />
 
 I build practical web applications and interactive experiences, and enjoy exploring how software can make everyday workflows better.
 
