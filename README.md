@@ -1,142 +1,157 @@
 <div align="center">
 
-# 👋 Hi, I'm Reuben Binu George
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=58AAB0&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Reuben+Binu+George+%F0%9F%91%8B;Full-stack+developer;AI+enthusiast;I+turn+ideas+into+working+software" alt="Typing introduction" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1200&color=58AAB0&center=true&vCenter=true&width=600&lines=Full-stack+developer+%C2%B7+AI+enthusiast" alt="Full-stack developer · AI enthusiast" />
+### I build useful web apps, interactive experiences, and playful experiments.
 
-I build practical web applications and interactive experiences, and enjoy exploring how software can make everyday workflows better.
-
-<a href="https://reubg.in"><img src="https://img.shields.io/badge/Portfolio-reubg.in-58aab0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+<a href="https://reubg.in"><img src="https://img.shields.io/badge/Explore_my_portfolio-58AAB0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
 <a href="https://github.com/daneyyhh"><img src="https://img.shields.io/badge/GitHub-daneyyhh-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-<img src="https://komarev.com/ghpvc/?username=daneyyhh&style=for-the-badge&color=58aab0&label=PROFILE+VIEWS" alt="Profile views" />
+<a href="https://linkedin.com/in/reubgdev"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<img src="https://komarev.com/ghpvc/?username=daneyyhh&style=for-the-badge&color=58aab0&label=PROFILE+VISITS" alt="Profile visits" />
 
 </div>
 
 ---
 
-## 💫 About Me
+## 🧭 Quick Navigation
 
-I'm a developer drawn to technology and the process of turning an idea into a working product. My projects range from full-stack web applications and e-commerce experiences to AI-powered games and custom game-server resources.
+[About](#-a-little-about-me) · [Toolkit](#-my-toolkit) · [Stats](#-github-at-a-glance) · [Projects](#-things-ive-built) · [Connect](#-lets-connect)
 
-I enjoy working across the stack: shaping an interface, connecting it to application logic and data, and iterating on the details that make a product useful. I also like experimenting with game mechanics and interactive interfaces as a different way to solve problems and learn.
+## 🧑‍💻 A Little About Me
 
-- 🔭 **Building:** full-stack applications, interactive projects, and developer tools
-- 🌱 **Exploring:** AI, modern web technologies, and game development
-- 👯 **Collaboration:** open to interesting open-source projects and creative ideas
-- 💬 **Ask me about:** JavaScript, web development, and game projects
-- 🌐 **Portfolio:** [reubg.in](https://reubg.in)
-- ⚡ **My approach:** keep learning, build hands-on, and improve through iteration
+I'm Reuben Binu George—a developer who gets excited by new technology and the process of turning an idea into something people can use. I enjoy moving between frontend, backend, and interactive projects, learning by building, and improving a project one thoughtful iteration at a time.
 
-## 🧰 Tech Stack & Areas of Interest
+My work spans full-stack web applications, e-commerce, business workflows, chat bots, and games. I like projects that combine practical problem-solving with a little creativity: a clear interface, useful functionality, and details that make the experience feel complete.
 
-These tools reflect technologies used across my projects and areas I enjoy exploring.
+| | What I'm into |
+|:--|:--|
+| 🔭 **Building** | Full-stack applications, interactive projects, and developer tools |
+| 🌱 **Learning** | AI, modern web technologies, and game development |
+| 🤝 **Open to** | Interesting collaborations and open-source ideas |
+| 💬 **Ask me about** | JavaScript, web development, and game projects |
+| 🌐 **Find me online** | [Portfolio](https://reubg.in) · [LinkedIn](https://linkedin.com/in/reubgdev) |
 
-### Languages & Web Foundations
+> **My developer loop:** get curious → build a small version → learn from it → make it better.
+
+## 🧰 My Toolkit
+
+A snapshot of technologies used across my projects and areas I enjoy exploring—not a claim of equal expertise in every tool.
+
+<details open>
+<summary><strong>🌐 Web & application development</strong></summary>
+<br />
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
-![C%23](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Frontend & Backend
-
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### Data, Real-Time Apps & Game Development
+</details>
+
+<details>
+<summary><strong>🗄️ Data & real-time features</strong></summary>
+<br />
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+</details>
+
+<details>
+<summary><strong>🎮 Scripting & game development</strong></summary>
+<br />
+
+![C Sharp](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white)
 
-- **Web applications:** responsive interfaces, application workflows, and full-stack project development.
-- **Backend & data:** server-side functionality, APIs, persistence, and business-oriented features.
-- **Real-time experiences:** exploring interactive updates and event-driven features in web apps.
-- **Games:** experimenting with game logic, AI opponents, physics, and gameplay systems.
+</details>
 
-## 📊 GitHub Stats & Activity
+### Things I like building
 
-The cards below are generated from public GitHub activity and may take a little time to refresh. Language statistics indicate repository language composition, not necessarily skill level.
+- **Full-stack products:** responsive interfaces paired with useful backend workflows.
+- **Business tools:** inventory, orders, roles, and analytics organized around real tasks.
+- **Interactive experiences:** real-time updates, game logic, and engaging interfaces.
+- **Small experiments:** trying new ideas and technologies through hands-on projects.
+
+## 📊 GitHub at a Glance
+
+These cards use public GitHub data. Language distribution reflects code in repositories, not a measure of proficiency. External stats providers may occasionally be slow or unavailable.
 
 <div align="center">
 
 <a href="https://github.com/daneyyhh">
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api?username=daneyyhh&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats for daneyyhh" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=daneyyhh&show_icons=true&include_all_commits=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="GitHub profile statistics" />
 </a>
-<a href="https://streak-stats.demolab.com/?user=daneyyhh&theme=tokyonight&hide_border=true">
-  <img height="180" src="https://streak-stats.demolab.com?user=daneyyhh&theme=tokyonight&hide_border=true" alt="GitHub contribution streak for daneyyhh" />
+<a href="https://github.com/daneyyhh">
+  <img height="175" src="https://streak-stats.demolab.com?user=daneyyhh&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </a>
 
 <a href="https://github.com/daneyyhh">
-  <img height="180" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=daneyyhh&layout=compact&hide_border=true&theme=tokyonight" alt="Most used languages for daneyyhh" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daneyyhh&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Most used repository languages" />
 </a>
 
 </div>
 
-### 📈 Contribution Activity
+<details>
+<summary><strong>📈 Contribution activity graph</strong></summary>
+<br />
 
 <div align="center">
 
-[![Reuben's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=daneyyhh&theme=tokyo-night&hide_border=true)](https://github.com/daneyyhh)
+[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=daneyyhh&theme=tokyo-night&hide_border=true)](https://github.com/daneyyhh)
 
 </div>
 
-## 🚀 Featured Repositories
+</details>
 
-A selection of projects across portfolio development, business applications, e-commerce, AI, and games.
+## 🚀 Things I've Built
 
-### 🌐 Web Applications
+A tour through projects I've worked on—spanning web apps, tools, bots, and games. Star and fork counts below are live badges when Shields.io is available.
 
-| Project | Overview | Stack |
-|:--|:--|:--:|
-| [**Portfolio**](https://github.com/daneyyhh/portfolio) | Interactive portfolio showcasing full-stack engineering and game development projects. | JavaScript |
-| [**ERP System**](https://github.com/daneyyhh/erp_system) | Enterprise resource planning app featuring user roles, inventory tracking, order workflows, and analytics. | PHP |
-| [**Nexora MERN E-commerce**](https://github.com/daneyyhh/nexora-mern-ecommerce) | Full-stack store with real-time events, variant browsing, coupons, dispatch tracking, and analytics. | JavaScript / MERN |
-| [**Astrobot Discord**](https://github.com/daneyyhh/astrobot-discord) | Multi-purpose Discord bot with moderation, utility, and entertainment features. | JavaScript / Node.js |
+### 🧩 Web apps & tools
 
-### 🎮 Games & Community Projects
+| Project | The idea | Built with | Activity |
+|:--|:--|:--:|:--:|
+| [**Nexora MERN E-commerce**](https://github.com/daneyyhh/nexora-mern-ecommerce) | A full-stack store with real-time events, variant browsing, coupons, dispatch tracking, and analytics. | MERN · Socket.IO | ![Stars](https://img.shields.io/github/stars/daneyyhh/nexora-mern-ecommerce?style=flat-square&label=%E2%AD%90) ![Forks](https://img.shields.io/github/forks/daneyyhh/nexora-mern-ecommerce?style=flat-square&label=forks) |
+| [**ERP System**](https://github.com/daneyyhh/erp_system) | Business workflows for user roles, inventory, orders, and analytics. | PHP | ![Stars](https://img.shields.io/github/stars/daneyyhh/erp_system?style=flat-square&label=%E2%AD%90) ![Forks](https://img.shields.io/github/forks/daneyyhh/erp_system?style=flat-square&label=forks) |
+| [**Portfolio**](https://github.com/daneyyhh/portfolio) | An interactive portfolio showcasing full-stack and game development projects. | JavaScript | ![Stars](https://img.shields.io/github/stars/daneyyhh/portfolio?style=flat-square&label=%E2%AD%90) ![Forks](https://img.shields.io/github/forks/daneyyhh/portfolio?style=flat-square&label=forks) |
+| [**Astrobot Discord**](https://github.com/daneyyhh/astrobot-discord) | A multi-purpose bot for moderation, utility, and entertainment. | Node.js · Discord.js | ![Stars](https://img.shields.io/github/stars/daneyyhh/astrobot-discord?style=flat-square&label=%E2%AD%90) ![Forks](https://img.shields.io/github/forks/daneyyhh/astrobot-discord?style=flat-square&label=forks) |
 
-| Project | Overview | Stack |
-|:--|:--|:--:|
-| [**AI Chess Game**](https://github.com/daneyyhh/ai-chess-game) | Interactive chess game featuring an AI opponent, move validation, and score tracking. | JavaScript |
-| [**FiveM Resources**](https://github.com/daneyyhh/fivem-resources) | Custom scripts and modular gameplay resources for FiveM servers. | Lua |
-| [**3D Bouncing Ball Game**](https://github.com/daneyyhh/3d-bouncing-ball-game) | Physics-based Unity platformer with obstacle navigation and dynamic hazards. | C# / Unity |
+### 🕹️ Games & game-server projects
 
-### ⭐ Project Activity
+| Project | The idea | Built with | Activity |
+|:--|:--|:--:|:--:|
+| [**AI Chess Game**](https://github.com/daneyyhh/ai-chess-game) | Chess against an AI opponent, with move validation and score tracking. | JavaScript | ![Stars](https://img.shields.io/github/stars/daneyyhh/ai-chess-game?style=flat-square&label=%E2%AD%90) ![Forks](https://img.shields.io/github/forks/daneyyhh/ai-chess-game?style=flat-square&label=forks) |
+| [**3D Bouncing Ball Game**](https://github.com/daneyyhh/3d-bouncing-ball-game) | A physics-based platformer with obstacle navigation and dynamic hazards. | Unity · C# | ![Stars](https://img.shields.io/github/stars/daneyyhh/3d-bouncing-ball-game?style=flat-square&label=%E2%AD%90) ![Forks](https://img.shields.io/github/forks/daneyyhh/3d-bouncing-ball-game?style=flat-square&label=forks) |
+| [**FiveM Resources**](https://github.com/daneyyhh/fivem-resources) | Custom scripts and modular gameplay resources for FiveM servers. | Lua | ![Stars](https://img.shields.io/github/stars/daneyyhh/fivem-resources?style=flat-square&label=%E2%AD%90) ![Forks](https://img.shields.io/github/forks/daneyyhh/fivem-resources?style=flat-square&label=forks) |
 
-Live repository badges show current GitHub stars and forks; values can change over time.
+### 🧭 Explore more
 
-| Repository | Stars | Forks |
-|:--|:--:|:--:|
-| [Portfolio](https://github.com/daneyyhh/portfolio) | ![Stars](https://img.shields.io/github/stars/daneyyhh/portfolio?style=flat-square&label=%E2%AD%90) | ![Forks](https://img.shields.io/github/forks/daneyyhh/portfolio?style=flat-square&label=forks) |
-| [ERP System](https://github.com/daneyyhh/erp_system) | ![Stars](https://img.shields.io/github/stars/daneyyhh/erp_system?style=flat-square&label=%E2%AD%90) | ![Forks](https://img.shields.io/github/forks/daneyyhh/erp_system?style=flat-square&label=forks) |
-| [Nexora MERN E-commerce](https://github.com/daneyyhh/nexora-mern-ecommerce) | ![Stars](https://img.shields.io/github/stars/daneyyhh/nexora-mern-ecommerce?style=flat-square&label=%E2%AD%90) | ![Forks](https://img.shields.io/github/forks/daneyyhh/nexora-mern-ecommerce?style=flat-square&label=forks) |
-| [AI Chess Game](https://github.com/daneyyhh/ai-chess-game) | ![Stars](https://img.shields.io/github/stars/daneyyhh/ai-chess-game?style=flat-square&label=%E2%AD%90) | ![Forks](https://img.shields.io/github/forks/daneyyhh/ai-chess-game?style=flat-square&label=forks) |
-| [FiveM Resources](https://github.com/daneyyhh/fivem-resources) | ![Stars](https://img.shields.io/github/stars/daneyyhh/fivem-resources?style=flat-square&label=%E2%AD%90) | ![Forks](https://img.shields.io/github/forks/daneyyhh/fivem-resources?style=flat-square&label=forks) |
-| [3D Bouncing Ball Game](https://github.com/daneyyhh/3d-bouncing-ball-game) | ![Stars](https://img.shields.io/github/stars/daneyyhh/3d-bouncing-ball-game?style=flat-square&label=%E2%AD%90) | ![Forks](https://img.shields.io/github/forks/daneyyhh/3d-bouncing-ball-game?style=flat-square&label=forks) |
-| [Astrobot Discord](https://github.com/daneyyhh/astrobot-discord) | ![Stars](https://img.shields.io/github/stars/daneyyhh/astrobot-discord?style=flat-square&label=%E2%AD%90) | ![Forks](https://img.shields.io/github/forks/daneyyhh/astrobot-discord?style=flat-square&label=forks) |
+Browse [all my repositories](https://github.com/daneyyhh?tab=repositories) or visit my [portfolio](https://reubg.in) for more about my work.
 
-## 🌐 Connect With Me
+## 🤝 Let's Connect
 
-I'm always happy to connect with developers, discuss ideas, and hear about interesting projects.
+Have an interesting idea, a project to discuss, or just want to say hello? Find me here:
 
-<a href="https://github.com/daneyyhh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://linkedin.com/in/reubgdev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://reubg.in"><img src="https://img.shields.io/badge/Portfolio-58AAB0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-<a href="mailto:ftreuben1520@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<p>
+  <a href="https://github.com/daneyyhh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://linkedin.com/in/reubgdev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://reubg.in"><img src="https://img.shields.io/badge/Portfolio-58AAB0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:ftreuben1520@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
 <div align="center">
 
-### Thanks for stopping by! 👋
+### Thanks for stopping by 👋
 
-If something here catches your eye, take a look at the repositories or say hello.  
-**Keep building, keep learning, and make the next idea real.**
+**Stay curious. Build things. Make them better.**
 
-<sub>⚡ Made with curiosity, code, and a little bit of coffee.</sub>
+<sub>Designed with ☕ and a love for learning.</sub>
 
 </div>
