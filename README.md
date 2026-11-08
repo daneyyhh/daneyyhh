@@ -1,31 +1,33 @@
 <h1 align="center">Hi there 👋, I'm Reuben Binu George</h1>
-<h3 align="center">Full-stack developer | Game development enthusiast | REUBG DEV</h3>
 
 <p align="center">
   <a href="https://reubg.in">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58AAB0&center=true&vCenter=true&width=520&lines=Building+full-stack+web+applications+%F0%9F%9A%80;Exploring+AI+and+game+development+%F0%9F%8E%AE;Always+learning+and+building+%E2%9A%A1" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58AAB0&center=true&vCenter=true&width=520&lines=Full-Stack+Developer+%F0%9F%9A%80;Building+Web+Apps+%26+Interactive+Experiences+%F0%9F%92%BB;Exploring+AI%2C+Games%2C+and+New+Tech+%E2%9A%A1" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=daneyyhh&label=Profile%20Views&color=58aab0&style=for-the-badge" alt="Profile views" />
-  <a href="https://reubg.in"><img src="https://img.shields.io/badge/Portfolio-reubg.in-58aab0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/daneyyhh"><img src="https://img.shields.io/github/followers/daneyyhh?label=Followers&style=for-the-badge&color=58aab0" alt="GitHub followers" /></a>
+  <a href="https://reubg.in">
+    <img src="https://img.shields.io/badge/Portfolio-reubg.in-58aab0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=daneyyhh&label=Profile%20Views&color=58aab0&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/daneyyhh">
+    <img src="https://img.shields.io/github/followers/daneyyhh?label=GitHub%20Followers&color=58aab0&style=for-the-badge&logo=github" alt="GitHub Followers" />
+  </a>
 </p>
 
-## 👤 Profile
+### 💫 About Me
 
-I'm Reuben Binu George, a full-stack developer who enjoys creating practical web applications and interactive experiences. I also explore game development and new technologies through hands-on projects.
+A full-stack developer who enjoys building useful web applications, experimenting with game development, and exploring new technologies.
 
-## 💫 About Me
-
-- 🔭 Building full-stack applications, game projects, and developer-focused tools
+- 🔭 Building full-stack applications, interactive projects, and developer tools
 - 🌱 Exploring AI, web technologies, and game development
 - 👯 Open to collaborating on interesting open-source projects
 - 💬 Ask me about JavaScript, web development, and game projects
 - 🌐 Portfolio: [reubg.in](https://reubg.in)
+- ⚡ I enjoy turning ideas into real, working projects
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -40,33 +42,57 @@ I'm Reuben Binu George, a full-stack developer who enjoys creating practical web
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
 </p>
 
-## 📊 GitHub Stats & Cards
+### 📊 GitHub Analytics & Rhythm
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=daneyyhh&show_icons=true&theme=tokyonight&hide_border=true" alt="Reuben's GitHub stats" />
-  <img height="180" src="https://streak-stats.demolab.com?user=daneyyhh&theme=tokyonight&hide_border=true" alt="Reuben's GitHub streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=daneyyhh&show_icons=true&theme=tokyonight&hide_border=true" alt="Reuben's GitHub Stats" />
+  <img height="180" src="https://streak-stats.demolab.com?user=daneyyhh&theme=tokyonight&hide_border=true" alt="Reuben's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daneyyhh&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daneyyhh&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-
-## 🚀 Repositories
 
 <p align="center">
-  <a href="https://github.com/daneyyhh/portfolio"><img src="https://github-readme-stats.vercel.app/api/pin/?username=daneyyhh&repo=portfolio&theme=tokyonight&hide_border=true" alt="Portfolio repository card" /></a>
-  <a href="https://github.com/daneyyhh/erp_system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=daneyyhh&repo=erp_system&theme=tokyonight&hide_border=true" alt="ERP system repository card" /></a>
-  <a href="https://github.com/daneyyhh/nexora-mern-ecommerce"><img src="https://github-readme-stats.vercel.app/api/pin/?username=daneyyhh&repo=nexora-mern-ecommerce&theme=tokyonight&hide_border=true" alt="Nexora e-commerce repository card" /></a>
-  <a href="https://github.com/daneyyhh/ai-chess-game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=daneyyhh&repo=ai-chess-game&theme=tokyonight&hide_border=true" alt="AI chess game repository card" /></a>
-  <a href="https://github.com/daneyyhh/fivem-resources"><img src="https://github-readme-stats.vercel.app/api/pin/?username=daneyyhh&repo=fivem-resources&theme=tokyonight&hide_border=true" alt="FiveM resources repository card" /></a>
-  <a href="https://github.com/daneyyhh/astrobot-discord"><img src="https://github-readme-stats.vercel.app/api/pin/?username=daneyyhh&repo=astrobot-discord&theme=tokyonight&hide_border=true" alt="Astrobot Discord repository card" /></a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=daneyyhh&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
-## 🌐 Social
+### 🚀 Featured Repositories
+
+- [**portfolio**](https://github.com/daneyyhh/portfolio) `JavaScript` ⭐ **1**  
+  Interactive developer portfolio featuring full-stack and game development projects.
+- [**erp_system**](https://github.com/daneyyhh/erp_system) `PHP`  
+  Enterprise resource planning system with user roles, inventory tracking, order workflows, and analytics.
+- [**nexora-mern-ecommerce**](https://github.com/daneyyhh/nexora-mern-ecommerce) `JavaScript`  
+  Full-stack e-commerce platform with real-time events, order tracking, and analytics.
+- [**ai-chess-game**](https://github.com/daneyyhh/ai-chess-game) `JavaScript`  
+  Interactive chess game featuring an AI opponent, move validation, and score tracking.
+- [**fivem-resources**](https://github.com/daneyyhh/fivem-resources) `Lua` ⭐ **1**  
+  Custom FiveM scripts and modular gameplay resources.
+- [**astrobot-discord**](https://github.com/daneyyhh/astrobot-discord) `JavaScript`  
+  Discord bot with moderation, utility, and entertainment features.
+- [**3d-bouncing-ball-game**](https://github.com/daneyyhh/3d-bouncing-ball-game) `C#`  
+  Unity platformer with physics-based movement and dynamic hazards.
+
+### 🌐 Connect With Me
 
 <p>
-  <a href="https://github.com/daneyyhh"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/reubgdev"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://reubg.in"><img src="https://img.shields.io/badge/Portfolio-58aab0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:ftreuben1520@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/daneyyhh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/reubgdev" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://reubg.in" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-58aab0?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="mailto:ftreuben1520@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <sub>⚡ Building, learning, and sharing one project at a time.</sub>
 </p>
