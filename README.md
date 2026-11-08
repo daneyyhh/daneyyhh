@@ -74,14 +74,6 @@ A full-stack developer who enjoys building useful web applications, experimentin
 - [**3d-bouncing-ball-game**](https://github.com/daneyyhh/3d-bouncing-ball-game) `C#`  
   Unity platformer with physics-based movement and dynamic hazards.
 
-### 📌 Useful Open-Source Project
-
-<a href="https://github.com/jstrieb/github-stats">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jstrieb&repo=github-stats&theme=tokyonight&hide_border=true" alt="jstrieb/github-stats repository card" />
-</a>
-
-[**jstrieb/github-stats**](https://github.com/jstrieb/github-stats) — Generate GitHub statistics images for your profile, including stats from private repositories. The project is written in **Zig**.
-
 ### 🌐 Connect With Me
 
 <p>
